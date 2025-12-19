@@ -3,5 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
+# SQLite database (if using SQLite)
+db.sqlite3
+
+# vscode
+.vscode/
