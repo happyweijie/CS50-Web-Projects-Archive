@@ -11,3 +11,7 @@ __pycache__/
 
 # sass and css
 *.css.map
+
+# test folders
+tests/
+__tests__/
